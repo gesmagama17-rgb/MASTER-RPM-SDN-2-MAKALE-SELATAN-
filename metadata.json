@@ -1,0 +1,6 @@
+{
+  "name": "Generator RPM SDN 2 Makale Selatan (Edisi Khusus SD/MI)",
+  "description": "Perancangan Pembelajaran Mendalam (RPM / Deep Learning Framework) khusus Jenjang SD/MI Fase A, B, dan C berbasis 5 Tabel Spreadsheet Terpadu, LKPD, dan Rubrik Penilaian 4 Skala Skor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
